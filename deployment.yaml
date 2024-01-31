@@ -17,7 +17,8 @@ spec:
   spec:
    containers:
    - name: myapp
-     image: lokeshtadepalli267/devops:10
+     #image: lokeshtadepalli267/devops:10
+     image: nginx:latest
      ports:
      - containerPort: 8080
 

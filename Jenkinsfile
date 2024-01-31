@@ -67,5 +67,5 @@ pipeline {
 			    echo "Deployment Finished ..."
 		    }
 	    }
-    }
-}
+   }
+} 

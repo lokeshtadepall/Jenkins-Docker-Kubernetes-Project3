@@ -17,8 +17,8 @@ spec:
   spec:
    containers:
    - name: myapp-app-loadbalancer
-     #image: ameintu/devops:tagversion
-     image: nginx
+     image: lokeshtadepalli267/devops:tagversion
+     #image: nginx
      ports:
      - containerPort: 80
 

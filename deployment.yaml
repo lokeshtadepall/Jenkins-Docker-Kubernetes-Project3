@@ -17,7 +17,7 @@ spec:
   spec:
    containers:
    - name: myapp
-     image: lokeshtadepalli267/devops:tagversion
+     image: lokeshtadepalli267/devops:10
      ports:
      - containerPort: 8080
 
